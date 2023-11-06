@@ -6,8 +6,8 @@ EC_base_path="/home/admin1/airflow/dags/"
 EC_cities_path="/home/admin1/airflow/dags/cities.csv"
 
 
-aws_access_key='AKIA3LDOKAOXXGSNYBO2'
-aws_access_secret_key='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'
+aws_access_key=''
+aws_access_secret_key=''
 aws_bucket_name = 'openweathercityreport'
 
 now=datetime.now()
